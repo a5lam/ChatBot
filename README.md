@@ -15,11 +15,14 @@ pip install tensorflow, keras, pickle, nltk
 ## Usage
 
 1. First, train the model using the command in the terminal:
-   python train_chatbot.py
-
+```
+python train_chatbot.py
+```
 2. If you don’t see any error during training, you have successfully created the model. Then to run the app, run the second file.
-   python chatgui.py
-   
+
+```
+python chatgui.py
+```   
   
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
