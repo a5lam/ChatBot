@@ -2,6 +2,7 @@
 
 Chatbot is a Python project in which I have used a deep learning techniques. The chatbot will be trained on the dataset which contains categories (intents), pattern and responses. I have used a special recurrent neural network (LSTM) to classify which category the user’s message belongs to and then we will give a random response from the list of responses.
 
+<img src='https://github.com/a5lam/Devfolio/blob/master/img/portfolio/chatbot.png?raw=true'></img>
 
 ## Installation
 
